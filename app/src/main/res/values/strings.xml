@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AdmissionBox</string>
+    <string name="no_data_available">No Organization is  Registered</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_chats">Chats</string>
+    <string name="tab_more">More</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="font_home">&#xf38f;</string>
+    <string name="font_chat">&#xf3f9;</string>
+    <string name="font_more">&#xf46a;</string>
+    <string name="font_backarrow">&#xf3d1;</string>
+
+    <string name="votes">10 votes</string>
+    <string name="comments">10 comments</string>
+    <string name="ratings">Rating 3/5</string>
+    <string name="comment">Comments</string>
+    <string name="post">Post</string>
+    <string name="userprofile">User Profile</string>
+    <string name="content_des">poster</string>
+    <string name="user_email">Email:</string>
+    <string name="Name">Name</string>
+    <string name="term_condition">*Terms and conditions</string>
+
+
+    <string name="client_id">965578141119–9au2fq2im8j3e2cb9lao8tmntvt49gav.apps.googleusercontent.com</string>
+    <string name="send_button_label">Send</string>
+
+</resources>

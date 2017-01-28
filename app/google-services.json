@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "603298445715",
+    "firebase_url": "https://admissionbox-81008.firebaseio.com",
+    "project_id": "admissionbox-81008",
+    "storage_bucket": "admissionbox-81008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603298445715:android:d045c4d8a38efc8a",
+        "android_client_info": {
+          "package_name": "com.udacity.kavya.admissionbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603298445715-ki4dbgm51emb003uto2ufasj02uldoqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpTcmbEhoQq4JYDdISCC81ECzO8YXmd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
